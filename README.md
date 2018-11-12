@@ -46,7 +46,7 @@ python3 convert_data.py --data-name=emnist --num-target-examples=20
 python3 train_ada.py --exp-name=ada --source=omniglot --target=emnist_20 --num-ways=5 --la=0.001
 ```
 
-Train adversarial domain adaption (ADA) with reinforced sample selection (RSS)for 5-way 1-shot learning.
+Train adversarial domain adaption (ADA) with reinforced sample selection (RSS) for 5-way 1-shot learning.
 ```
 python3 convert_data.py --data-name=chars
 python3 convert_data.py --data-name=sim
