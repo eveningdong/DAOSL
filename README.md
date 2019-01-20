@@ -3,18 +3,18 @@
 Implementation of Domain Adaption in One-Shot Learning.
 
 ## Paper
-You can temporarily find our paper at [here](https://nanqingd.github.io/files/ECML_2018_Camera_Ready_Final.pdf).
-*The proceedings are coming out soon!*
+You can find our paper at [Springer](https://link.springer.com/chapter/10.1007/978-3-030-10925-7_35) or [PDF](https://github.com/NanqingD/DAOSL/blob/master/ECML_2018_Camera_Ready_Final.pdf).
 
 ## Citation
 If you find DAOSL useful in your research, please consider to cite:
 
 @inproceedings{dong2018domain, 
-  title={Domain Adaption in One-Shot Learning}, 
+  title={Domain adaption in one-shot learning}, 
   author={Dong, Nanqing and Eric P. Xing}, 
   booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
-  pages={},
-  year={2018}
+  pages={573--588},
+  year={2018},
+  organization={Springer}
 }
 
 ## Setup
